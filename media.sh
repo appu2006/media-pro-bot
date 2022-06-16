@@ -5,4 +5,6 @@ git clone "${REPO_URL:-https://github.com/Mahesh0253/Media-Search-bot}" media_se
 cd media_search
 
 
+echo "🚀 BOT IS STARTING ❣️";
+
 python3 bot.py
